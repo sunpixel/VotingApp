@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Voting App</string>
+
+    <string name="btn_add">Add Item</string>
+    <string name="btn_start_voting">Start Voting</string>
+    <string name="btn_results">Show Results</string>
+
+    <string name="dialog_add_title">Add a New Vote Item</string>
+    <string name="dialog_edit_title">Edit Item</string>
+
+    <string name="btn_prev">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_vote">Vote</string>
+    <string name="btn_toggle_images">Toggle Images</string>
+</resources>
