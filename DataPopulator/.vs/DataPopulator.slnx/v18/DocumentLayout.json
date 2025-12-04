@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|c:\\users\\sunpixel\\source\\repos\\datapopulator\\datapopulator\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|solutionrelative:datapopulator\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|c:\\users\\sunpixel\\source\\repos\\datapopulator\\datapopulator\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|solutionrelative:datapopulator\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|c:\\users\\sunpixel\\source\\repos\\datapopulator\\datapopulator\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80FF9C0-0B13-161C-FA9D-084E403A19E9}|DataPopulator\\DataPopulator.csproj|solutionrelative:datapopulator\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataPopulator\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\AppDbContext.cs",
+              "RelativeToolTip": "DataPopulator\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:00:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VotesController.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\Controllers\\VotesController.cs",
+              "RelativeDocumentMoniker": "DataPopulator\\Controllers\\VotesController.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\Controllers\\VotesController.cs",
+              "RelativeToolTip": "DataPopulator\\Controllers\\VotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:45:10.383Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\DataStructure.cs",
+              "RelativeDocumentMoniker": "DataPopulator\\DataStructure.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\source\\repos\\DataPopulator\\DataPopulator\\DataStructure.cs",
+              "RelativeToolTip": "DataPopulator\\DataStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:51:27.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
