@@ -1,0 +1,33 @@
+﻿networks:
+  internal-network:
+    driver: bridge
+
+services:
+  postgres:
+    image: postgres:18.1-trixie
+    environment:
+      POSTGRES_PASSWORD: 8o6i.V]B<pT8}yF1
+      POSTGRES_DB: userdb
+    ports:
+      - "5234:5432"
+    networks:
+      - internal-network
+    volumes:
+      - db-data:/var/lib/postgresql
+
+  rabbitmq:
+    image: rabbitmq:4.1.5-management-alpine
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - internal-network
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+
+volumes:
+  db-data:
+  rabbitmq-data:

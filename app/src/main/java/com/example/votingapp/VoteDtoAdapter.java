@@ -40,12 +40,12 @@ public class VoteDtoAdapter extends RecyclerView.Adapter<VoteDtoAdapter.Holder> 
         h.title.setText(item.name);
         h.desc.setText(item.description + " (" + item.numberOfVotes + " votes)");
 
-        if (item.photoUrl != null && !item.photoUrl.isEmpty()) {
+/*        if (item.photoUrl != null && !item.photoUrl.isEmpty()) {
             h.iv.setVisibility(View.VISIBLE);
             Glide.with(h.iv.getContext()).load(item.photoUrl).centerCrop().into(h.iv);
         } else {
             h.iv.setVisibility(View.GONE);
-        }
+        }*/
 
         h.itemView.setOnClickListener(v -> click.onClick(item));
         h.itemView.setOnLongClickListener(v -> {

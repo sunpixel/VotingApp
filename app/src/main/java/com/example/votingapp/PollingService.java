@@ -41,7 +41,7 @@ public class PollingService extends Service {
 
         runnable = () -> {
             executor.submit(() -> {
-                VoteRepository repo = new VoteRepository(getApplicationContext(), "http://10.0.2.2:8000/");
+                VoteRepository repo = new VoteRepository(getApplicationContext(), "http://10.0.2.2:5079/api/");
                 try {
                     retrofit2.Response<List<VoteDto>> r = repo.api.getVotes().execute();
                     if (r.isSuccessful()) {

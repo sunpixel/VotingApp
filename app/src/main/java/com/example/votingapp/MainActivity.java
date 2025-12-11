@@ -25,7 +25,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String BASE_URL = "http://10.0.2.2:8000/"; // change if needed
+    private final String BASE_URL = "http://10.0.2.2:5079/api/"; // change if needed
     List<VoteDto> items = new ArrayList<>();
     VoteDtoAdapter adapter; // we'll create an adapter for VoteDto (or reuse existing with slight changes)
     VoteRepository repo;

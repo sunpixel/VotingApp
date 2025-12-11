@@ -15,7 +15,7 @@ import retrofit2.Response;
 public class UpdateWorker extends Worker {
 
     private static final String TAG = "UpdateWorker";
-    private static final String BASE_URL = "http://10.0.2.2:8000/"; // adjust if needed
+    private static final String BASE_URL = "http://10.0.2.2:5079/api/"; // adjust if needed
 
     public UpdateWorker(@NonNull Context context, @NonNull WorkerParameters params) {
         super(context, params);

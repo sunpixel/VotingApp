@@ -8,7 +8,7 @@ public class VoteDto implements Serializable {
     public int id;
     public String name;
     public String description;
-    public String photoUrl; // может быть null
+    public byte photoUrl; // может быть null
     public int numberOfVotes;
     public List<String> whoVoted;
 }

@@ -20,7 +20,7 @@ import retrofit2.Response;
 
 public class VotingActivity extends AppCompatActivity {
 
-    private final String BASE_URL = "http://10.0.2.2:8000/";
+    private final String BASE_URL = "http://10.0.2.2:5079/api/";
     VoteRepository repo;
     List<VoteDto> items;
     int voteIdParam = -1;
@@ -141,12 +141,12 @@ public class VotingActivity extends AppCompatActivity {
         tvTitle.setText(item.name);
         tvDesc.setText(item.description);
         tvVotes.setText("Votes: " + item.numberOfVotes);
-        if (item.photoUrl != null && !item.photoUrl.isEmpty()) {
+/*        if (item.photoUrl != null && !item.photoUrl.isEmpty()) {
             ivImage.setVisibility(View.VISIBLE);
             Glide.with(this).load(item.photoUrl).fitCenter().into(ivImage);
         } else {
             ivImage.setVisibility(View.GONE);
-        }
+        }*/
 
         // Disable vote button if device already voted (client-side quick block)
         String deviceId = getDeviceIdString();

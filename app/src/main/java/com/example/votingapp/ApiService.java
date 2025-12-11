@@ -9,9 +9,9 @@ import retrofit2.http.POST;
 
 public interface ApiService {
 
-    @GET("votes")
+    @GET("Votes")
     Call<List<VoteDto>> getVotes();
 
-    @POST("vote")
+    @POST("Votes")
     Call<ApiResponse> vote(@Body VoteRequestBody body);
 }

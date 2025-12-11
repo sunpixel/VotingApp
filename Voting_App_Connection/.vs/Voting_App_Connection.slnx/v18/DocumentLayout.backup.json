@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|c:\\users\\sunpixel\\desktop\\programming\\vs\\voting_app_connection\\voting_app_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|solutionrelative:voting_app_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|c:\\users\\sunpixel\\desktop\\programming\\vs\\voting_app_connection\\voting_app_connection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|solutionrelative:voting_app_connection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|c:\\users\\sunpixel\\desktop\\programming\\vs\\voting_app_connection\\voting_app_connection\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|solutionrelative:voting_app_connection\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|c:\\users\\sunpixel\\desktop\\programming\\vs\\voting_app_connection\\voting_app_connection\\migrations\\20251211164938_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D20325C-2948-1AF0-C791-6759E64E74D4}|Voting_App_Connection\\Voting_App_Connection.csproj|solutionrelative:voting_app_connection\\migrations\\20251211164938_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251211164938_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Migrations\\20251211164938_Initial.cs",
+              "RelativeDocumentMoniker": "Voting_App_Connection\\Migrations\\20251211164938_Initial.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Migrations\\20251211164938_Initial.cs",
+              "RelativeToolTip": "Voting_App_Connection\\Migrations\\20251211164938_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:49:40.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Program.cs",
+              "RelativeDocumentMoniker": "Voting_App_Connection\\Program.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Program.cs",
+              "RelativeToolTip": "Voting_App_Connection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:05:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotesController.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Controllers\\VotesController.cs",
+              "RelativeDocumentMoniker": "Voting_App_Connection\\Controllers\\VotesController.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\Controllers\\VotesController.cs",
+              "RelativeToolTip": "Voting_App_Connection\\Controllers\\VotesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:04:47.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Voting_App_Connection\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\VS\\Voting_App_Connection\\Voting_App_Connection\\AppDbContext.cs",
+              "RelativeToolTip": "Voting_App_Connection\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:50:50.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
