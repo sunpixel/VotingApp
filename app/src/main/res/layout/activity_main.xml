@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:padding="16dp"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
 
     <Button
-        android:id="@+id/btnAdd"
-        android:text="Add Item"
+        android:id="@+id/btnRefresh"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Refresh from Server" />
+
+    <Button
+        android:id="@+id/btnStartPolling"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start 5-min Polling (Foreground)" />
+
+    <Button
+        android:id="@+id/btnStopPolling"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Polling" />
 
     <Button
         android:id="@+id/btnStartVoting"
-        android:text="Start Voting"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Start Voting" />
 
     <Button
         android:id="@+id/btnResults"
-        android:text="Show Results"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Show Results" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvVotes"
